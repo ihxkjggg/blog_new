@@ -1,0 +1,97 @@
+{
+  "site": {
+    "url": "https://waline.lxchapu.com",
+    "title": "强资源",
+    "description": "这是一个分享手机和电脑实用软件的博客。",
+    "keywords": "实用、免费、手机、电脑、软件",
+    "lang": "zh-CN",
+    "favicon": "/favicon.ico",
+    "appleTouchIcon": "/apple-touch-icon.png"
+  },
+  "author": {
+    "name": "强资源",
+    "twitterId": "",
+    "avatar": "https://picsum.photos/id/237/200/300"
+  },
+  "hero": {
+    "name": "强资源",
+    "bio": "一个分享实用手机和电脑软件的博客！微信公众号：强资源",
+    "description": "手机, 电脑, 软件",
+    "socials": [
+      {
+        "name": "Github",
+        "icon": "icon-github",
+        "url": "",
+        "color": "rgb(24, 23, 23)"
+      },
+      {
+        "name": "X",
+        "icon": "icon-x",
+        "url": "",
+        "color": "rgb(36, 46, 54)"
+      },
+      {
+        "name": "Email",
+        "icon": "icon-mail",
+        "url": "mailto:ihxkjggg@126.com",
+        "color": "rgb(212, 70, 56)"
+      }
+    ],
+    "yiyan": "当你还在为解决问题烦恼时，说不定我已经分享了方法。"
+  },
+  "color": {
+    "accent": [
+      { "light": "#F55555", "dark": "#FCCF31" },
+      { "light": "#0396FF", "dark": "#ABDCFF" },
+      { "light": "#fb7287", "dark": "#99D8CF" },
+      { "light": "#F072B6", "dark": "#FFF886" },
+      { "light": "#9F44D3", "dark": "#E2B0FF" },
+      { "light": "#FF6666", "dark": "#A1CCD1" },
+      { "light": "#F6416C", "dark": "#838BC6" },
+      { "light": "#32CCBC", "dark": "#90F7EC" },
+      { "light": "#33A6B8", "dark": "#79F1A4" },
+      { "light": "#F55555", "dark": "#FCCF31" }
+    ]
+  },
+  "menus": [
+    {
+      "name": "首页",
+      "link": "/",
+      "icon": "icon-pantone"
+    },
+    {
+      "name": "归档",
+      "link": "/archives",
+      "icon": "icon-archive"
+    },
+    {
+      "name": "项目",
+      "link": "/projects",
+      "icon": "icon-flask"
+    },
+    {
+      "name": "公众号",
+      "link": "/gzh",
+      "icon": "icon-hearts"
+    },
+    {
+      "name": "关于",
+      "link": "/about",
+      "icon": "icon-ghost"
+    }
+  ],
+  "posts": {
+    "perPage": 10
+  },
+  "footer": {
+    "startTime": "2024-05-07T00:00:00Z"
+  },
+  "docSearch": {
+    "appId": "HVSDZW6OMW",
+    "apiKey": "620210b40f27c943bab10e60718e1d74",
+    "indexName": "firstname"
+  },
+  "waline": {
+    "serverURL": "https://waline.lxchapu.com"
+  }
+}
