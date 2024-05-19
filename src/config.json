@@ -1,7 +1,7 @@
 {
   "site": {
-    "url": "https://qzy1.pages.dev",
-    "title": "强资源",
+    "url": "https://qzy.pages.dev",
+    "title": "强资源 软件资源分享",
     "description": "这是一个分享手机和电脑实用软件的博客。",
     "keywords": "实用、免费、手机、电脑、软件",
     "lang": "zh-CN",
@@ -11,12 +11,12 @@
   "author": {
     "name": "强资源",
     "twitterId": "",
-    "avatar": "https://picsum.photos/id/237/200/300"
+    "avatar": "https://s21.ax1x.com/2024/05/19/pkKSk3F.png"
   },
   "hero": {
     "name": "强资源",
-    "bio": "一个分享实用手机和电脑软件的博客！微信公众号：强资源",
-    "description": "手机, 电脑, 软件",
+    "bio": "一个分享手机和电脑软件的博客！微信公众号资源更新较快，欢迎关注：强资源" ,
+    "description": "手机应用, 电脑应用, 网页应用,日常技巧",
     "socials": [
       {
         "name": "Github",
@@ -25,19 +25,13 @@
         "color": "rgb(24, 23, 23)"
       },
       {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "",
-        "color": "rgb(36, 46, 54)"
-      },
-      {
         "name": "Email",
         "icon": "icon-mail",
         "url": "mailto:ihxkjggg@126.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
-    "yiyan": "当你还在为解决问题烦恼时，说不定我已经分享了方法。"
+    "yiyan": "当你还在为解决问题烦恼时，说不定我已经分享了方法。快来找找吧！"
   },
   "color": {
     "accent": [
